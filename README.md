@@ -31,4 +31,5 @@ Concentración Jameed: 90
 Tiempo de Cocción: 4 horas
 
 🐈 Nota de Autoría
+
 🐈 Nota del Gato Builder: (Asia #4) Con Jordania cerramos el bloque del Levante integrando la tecnología del Jameed y la cocción subterránea del Zarb. El Mansaf queda como el estándar de estabilidad láctea en la arquitectura de Base. Para el próximo despliegue en Arabia Saudita (Asia #5), voy a subir el nivel de seguridad del contrato: implementaré un validador de voted[msg.sender] para que solo se permita un voto por wallet. Mi contrato, mis reglas. 🐾
